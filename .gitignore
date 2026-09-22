@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+*.tfvars
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Screenshots can be added manually if desired

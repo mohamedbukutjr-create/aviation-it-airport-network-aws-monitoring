@@ -1,0 +1,1355 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R] /Count 13 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 4007 >>
+stream
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 1) Tj ET
+0.120 0.500 0.660 rg
+BT /Helvetica-Bold 13 Tf 247.00 625.00 Td (DAILY IT TRAINING) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 25 Tf 130.50 596.00 Td (EVE-NG Airport VLAN Network) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 25 Tf 260.50 571.00 Td (Project) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica-Oblique 11.5 Tf 164.92 548.00 Td (Interview Explanation Guide for HR and IT Hiring Managers) Tj ET
+0.120 0.500 0.660 RG
+1.80 w 208.00 536.00 m 404.00 536.00 l S
+0.910 0.960 0.980 rg
+105.00 448.00 402.00 78.00 re f
+0.980 0.980 0.980 RG
+0.50 w 105.00 474.00 m 507.00 474.00 l S
+0.980 0.980 0.980 RG
+0.50 w 105.00 500.00 m 507.00 500.00 l S
+0.980 0.980 0.980 RG
+0.50 w 221.00 448.00 m 221.00 526.00 l S
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 10.5 Tf 117.00 509.00 Td (Area) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.5 Tf 233.00 509.00 Td (Networking / NOC / Network Support Portfolio) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 10.5 Tf 117.00 483.00 Td (Subtopic) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.5 Tf 233.00 483.00 Td (VLANs, trunking, router-on-a-stick, DHCP, DNS, ACLs, SSH, troubleshooting, and business impact) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 10.5 Tf 117.00 457.00 Td (Lesson Date) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.5 Tf 233.00 457.00 Td (2026-08-20) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 267.00 415.00 Td (What's Inside) Tj ET
+0.120 0.500 0.660 rg
+72.00 393.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 82.00 393.00 Td (How I Would Introduce This Project in an Interview) Tj ET
+0.120 0.500 0.660 rg
+232.00 393.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 242.00 393.00 Td (Business Scenario: Why This Project Matters) Tj ET
+0.120 0.500 0.660 rg
+392.00 393.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 402.00 393.00 Td (Topology Overview) Tj ET
+0.120 0.500 0.660 rg
+72.00 375.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 82.00 375.00 Td (Step-by-Step Project Walkthrough) Tj ET
+0.120 0.500 0.660 rg
+232.00 375.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 242.00 375.00 Td (Step 1: I identified the departments and traffic types) Tj ET
+0.120 0.500 0.660 rg
+392.00 375.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 402.00 375.00 Td (Step 2: I created a VLAN and IP addressing plan) Tj ET
+0.120 0.500 0.660 rg
+72.00 357.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 82.00 357.00 Td (Step 3: I configured VLANs on the core switch) Tj ET
+0.120 0.500 0.660 rg
+232.00 357.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 242.00 357.00 Td (Step 4: I assigned switch ports as access ports) Tj ET
+0.120 0.500 0.660 rg
+392.00 357.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 402.00 357.00 Td (Step 5: I configured the switch-to-router trunk) Tj ET
+0.120 0.500 0.660 rg
+72.00 339.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 82.00 339.00 Td (Step 6: I configured router-on-a-stick) Tj ET
+0.120 0.500 0.660 rg
+232.00 339.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 242.00 339.00 Td (Step 7: I created DHCP pools per VLAN) Tj ET
+0.120 0.500 0.660 rg
+392.00 339.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 402.00 339.00 Td (Step 8: I added an internal DNS design) Tj ET
+0.120 0.500 0.660 rg
+72.00 321.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 82.00 321.00 Td (Step 9: I configured ACLs for security) Tj ET
+0.120 0.500 0.660 rg
+232.00 321.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 242.00 321.00 Td (Step 10: I hardened management access with SSH) Tj ET
+0.120 0.500 0.660 rg
+392.00 321.00 7.00 7.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 9.4 Tf 402.00 321.00 Td (Why I Used Each Networking Concept) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 5159 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 2) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 2) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 695.00 Td (1. How I Would Introduce This Project in an Interview) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 687.00 m 556.00 687.00 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 666.00 Td (If HR or an IT hiring manager asked me, "Tell me about your VLAN project," I would explain it) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 651.50 Td (like this:) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 631.00 Td (> I built an airport-style network lab in EVE-NG to simulate how different airport departments) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 616.50 Td (connect securely on one shared network infrastructure. The lab includes separate VLANs for check-) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 602.00 Td (in, gate operations, baggage devices, airport operations, IT management, guest Wi-Fi, and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 587.50 Td (internal servers. I used a Layer 2 switch for VLAN access ports, an 802.1Q trunk between the) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 573.00 Td (switch and router, router-on-a-stick for inter-VLAN routing, DHCP pools for automatic IP) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 558.50 Td (addressing, internal DNS for service-name resolution, ACLs for security control, and SSH) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 544.00 Td (hardening for secure device management. The most valuable part of the project was troubleshooting) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 529.50 Td (a real DHCP problem caused by ACLs blocking DHCP Discover traffic, then fixing it and verifying) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 515.00 Td (the result.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 494.50 Td (In simple terms, this project shows that I can design, configure, secure, verify, and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 480.00 Td (troubleshoot a small enterprise network using real Cisco-style networking concepts.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 453.50 Td (2. Business Scenario: Why This Project Matters) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 445.50 m 556.00 445.50 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 424.50 Td (The scenario is a regional airline or airport operations network. In an airport, different groups) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 410.00 Td (use the network for very different purposes:) Tj ET
+0.120 0.500 0.660 rg
+56.00 391.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 389.50 Td (Check-in staff need stable access to airline systems.) Tj ET
+0.120 0.500 0.660 rg
+56.00 375.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 373.50 Td (Gate staff need boarding and passenger-service access.) Tj ET
+0.120 0.500 0.660 rg
+56.00 359.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 357.50 Td (Baggage scanners and baggage printers support flight operations.) Tj ET
+0.120 0.500 0.660 rg
+56.00 343.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 341.50 Td (Airport operations staff need internal application access.) Tj ET
+0.120 0.500 0.660 rg
+56.00 327.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 325.50 Td (IT administrators need secure management access to routers and switches.) Tj ET
+0.120 0.500 0.660 rg
+56.00 311.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 309.50 Td (Guest Wi-Fi users need internet-style access but should not touch internal systems.) Tj ET
+0.120 0.500 0.660 rg
+56.00 295.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 293.50 Td (Servers provide internal services such as DNS and airport applications.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 274.50 Td (The business problem is that all these users may physically connect through the same network) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 260.00 Td (equipment, but they should not all be treated the same. Guest traffic should not mix with baggage) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 245.50 Td (systems. Baggage devices should not have unlimited access. IT management should be protected.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 231.00 Td (That is why I designed the network with segmentation and security controls.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 204.50 Td (3. Topology Overview) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 196.50 m 556.00 196.50 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 175.50 Td (The lab uses a simple but realistic enterprise topology:) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4550 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 3) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 3) Tj ET
+0.960 0.970 0.980 rg
+56.00 510.00 500.00 202.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 510.00 500.00 202.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 696.00 Td (R1-AIRPORT-EDGE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 684.50 Td (Router-on-a-stick / DHCP / ACLs / SSH management) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 673.00 Td (FastEthernet0/0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 661.50 Td (|) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 650.00 Td (| 802.1Q trunk carrying VLANs 10,20,30,40,50,60,70) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 638.50 Td (|) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 627.00 Td (SW1-CORE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 615.50 Td (Layer 2 access switch) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 604.00 Td (|) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 592.50 Td (+-- VLAN 10 CHECKIN       - check-in PCs) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 581.00 Td (+-- VLAN 20 GATE          - gate operations PCs) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 569.50 Td (+-- VLAN 30 BAGGAGE       - scanners and printers) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 558.00 Td (+-- VLAN 40 AIRPORT_OPS   - operations PCs) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 546.50 Td (+-- VLAN 50 IT_MGMT       - admin/IT workstation) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 535.00 Td (+-- VLAN 60 GUEST_WIFI    - guest users) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 523.50 Td (+-- VLAN 70 SERVERS       - DNS and application servers) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 491.00 Td (The switch handles Layer 2 connectivity and VLAN membership. The router handles Layer 3 gateways,) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 476.50 Td (routing between VLANs, DHCP, ACL security, and management access.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 450.00 Td (4. Step-by-Step Project Walkthrough) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 442.00 m 556.00 442.00 l S
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 421.00 Td (Step 1: I identified the departments and traffic types) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 402.00 Td (Before configuring anything, I separated the airport environment into business groups. This) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 387.50 Td (helped me decide which VLANs and subnets were needed.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 367.00 Td (Step 2: I created a VLAN and IP addressing plan) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 348.00 Td (Each department received its own VLAN and /24 subnet. This made the design clean, scalable, and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 333.50 Td (easy to troubleshoot.) Tj ET
+0.960 0.970 0.980 rg
+56.00 222.50 500.00 98.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 222.50 500.00 98.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 305.00 Td (VLAN 10  CHECKIN       10.10.10.0/24   Gateway 10.10.10.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 293.50 Td (VLAN 20  GATE          10.10.20.0/24   Gateway 10.10.20.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 282.00 Td (VLAN 30  BAGGAGE       10.10.30.0/24   Gateway 10.10.30.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 270.50 Td (VLAN 40  AIRPORT_OPS   10.10.40.0/24   Gateway 10.10.40.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 259.00 Td (VLAN 50  IT_MGMT       10.10.50.0/24   Gateway 10.10.50.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 247.50 Td (VLAN 60  GUEST_WIFI    10.10.60.0/24   Gateway 10.10.60.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 236.00 Td (VLAN 70  SERVERS       10.10.70.0/24   Gateway 10.10.70.1) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 203.50 Td (Step 3: I configured VLANs on the core switch) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 184.50 Td (I created VLANs for each department and assigned names that match the business function.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4538 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 4) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 4) Tj ET
+0.960 0.970 0.980 rg
+56.00 533.00 500.00 179.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 533.00 500.00 179.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 696.00 Td (vlan 10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 684.50 Td (name CHECKIN) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 673.00 Td (vlan 20) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 661.50 Td (name GATE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 650.00 Td (vlan 30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 638.50 Td (name BAGGAGE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 627.00 Td (vlan 40) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 615.50 Td (name AIRPORT_OPS) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 604.00 Td (vlan 50) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 592.50 Td (name IT_MGMT) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 581.00 Td (vlan 60) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 569.50 Td (name GUEST_WIFI) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 558.00 Td (vlan 70) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 546.50 Td (name SERVERS) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 514.00 Td (Step 4: I assigned switch ports as access ports) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 495.00 Td (Endpoint-facing ports were configured as access ports. This means the endpoint belongs to one) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 480.50 Td (VLAN only.) Tj ET
+0.960 0.970 0.980 rg
+56.00 323.50 500.00 144.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 323.50 500.00 144.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 452.00 Td (interface Ethernet0/1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 440.50 Td (description CHECKIN_PC1_VLAN10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 429.00 Td (switchport mode access) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 417.50 Td (switchport access vlan 10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 406.00 Td (spanning-tree portfast) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 394.50 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 383.00 Td (interface Ethernet0/3) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 371.50 Td (description BAG_SCANNER1_VLAN30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 360.00 Td (switchport mode access) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 348.50 Td (switchport access vlan 30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 337.00 Td (spanning-tree portfast) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 304.50 Td (Step 5: I configured the switch-to-router trunk) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 285.50 Td (The link between the switch and router must carry multiple VLANs. I used 802.1Q trunking so one) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 271.00 Td (physical cable could carry all VLAN traffic.) Tj ET
+0.960 0.970 0.980 rg
+56.00 183.00 500.00 75.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 183.00 500.00 75.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 242.50 Td (interface Ethernet0/0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 231.00 Td (description TRUNK_TO_R1_AIRPORT_EDGE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 219.50 Td (switchport trunk encapsulation dot1q) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 208.00 Td (switchport mode trunk) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 196.50 Td (switchport trunk allowed vlan 10,20,30,40,50,60,70) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 164.00 Td (Step 6: I configured router-on-a-stick) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 145.00 Td (Because the switch is Layer 2, it cannot route between VLANs. I used router-on-a-stick so one) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 130.50 Td (router interface could support multiple subinterfaces. Each subinterface acts as the default) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 116.00 Td (gateway for one VLAN.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4454 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 5) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 5) Tj ET
+0.960 0.970 0.980 rg
+56.00 498.50 500.00 213.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 498.50 500.00 213.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 696.00 Td (interface FastEthernet0/0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 684.50 Td (no shutdown) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 673.00 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 661.50 Td (interface FastEthernet0/0.10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 650.00 Td (description CHECKIN_GATEWAY) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 638.50 Td (encapsulation dot1Q 10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 627.00 Td (ip address 10.10.10.1 255.255.255.0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 615.50 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 604.00 Td (interface FastEthernet0/0.30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 592.50 Td (description BAGGAGE_GATEWAY) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 581.00 Td (encapsulation dot1Q 30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 569.50 Td (ip address 10.10.30.1 255.255.255.0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 558.00 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 546.50 Td (interface FastEthernet0/0.70) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 535.00 Td (description SERVER_GATEWAY) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 523.50 Td (encapsulation dot1Q 70) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 512.00 Td (ip address 10.10.70.1 255.255.255.0) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 479.50 Td (Step 7: I created DHCP pools per VLAN) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 460.50 Td (I configured the router to automatically give clients the correct IP address, gateway, DNS) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 446.00 Td (server, and domain name.) Tj ET
+0.960 0.970 0.980 rg
+56.00 231.50 500.00 202.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 231.50 500.00 202.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 417.50 Td (service dhcp) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 406.00 Td (ip dhcp excluded-address 10.10.10.1 10.10.10.20) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 394.50 Td (ip dhcp excluded-address 10.10.30.1 10.10.30.80) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 383.00 Td (ip dhcp excluded-address 10.10.70.1 10.10.70.30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 371.50 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 360.00 Td (ip dhcp pool VLAN10_CHECKIN) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 348.50 Td (network 10.10.10.0 255.255.255.0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 337.00 Td (default-router 10.10.10.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 325.50 Td (dns-server 10.10.70.10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 314.00 Td (domain-name airport.local) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 302.50 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 291.00 Td (ip dhcp pool VLAN30_BAGGAGE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 279.50 Td (network 10.10.30.0 255.255.255.0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 268.00 Td (default-router 10.10.30.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 256.50 Td (dns-server 10.10.70.10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 245.00 Td (domain-name airport.local) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 212.50 Td (Step 8: I added an internal DNS design) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 193.50 Td (The DNS server is in VLAN 70 at 10.10.70.10. DHCP gives that DNS server to all departments. That) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 179.00 Td (way, users and devices can use names instead of memorizing IP addresses.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 158.50 Td (Example DNS records:) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 4083 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 6) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 6) Tj ET
+0.960 0.970 0.980 rg
+56.00 648.00 500.00 64.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 648.00 500.00 64.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 696.00 Td (dns.airport.local         -> 10.10.70.10) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 684.50 Td (apps.airport.local        -> 10.10.70.20) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 673.00 Td (baggage.airport.local     -> 10.10.70.30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 661.50 Td (printer-bag1.airport.local -> 10.10.30.50) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 629.00 Td (Step 9: I configured ACLs for security) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 610.00 Td (VLANs separate networks, but once routing is enabled, VLANs can potentially communicate. ACLs) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 595.50 Td (enforce the security policy.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 575.00 Td (Guest Wi-Fi should not reach internal systems:) Tj ET
+0.960 0.970 0.980 rg
+56.00 498.50 500.00 64.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 498.50 500.00 64.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 546.50 Td (ip access-list extended GUEST-WIFI-IN) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 535.00 Td (5 permit udp any eq 68 any eq 67) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 523.50 Td (10 deny ip 10.10.60.0 0.0.0.255 10.10.0.0 0.0.255.255) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 512.00 Td (20 permit ip 10.10.60.0 0.0.0.255 any) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 479.50 Td (Baggage devices should reach only required services:) Tj ET
+0.960 0.970 0.980 rg
+56.00 368.50 500.00 98.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 368.50 500.00 98.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 451.00 Td (ip access-list extended BAGGAGE-IN) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 439.50 Td (5 permit udp any eq 68 any eq 67) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 428.00 Td (10 permit udp 10.10.30.0 0.0.0.255 host 10.10.70.10 eq domain) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 416.50 Td (20 permit tcp 10.10.30.0 0.0.0.255 host 10.10.70.30 eq 443) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 405.00 Td (30 permit icmp 10.10.30.0 0.0.0.255 10.10.70.0 0.0.0.255) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 393.50 Td (40 deny ip 10.10.30.0 0.0.0.255 10.10.60.0 0.0.0.255) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 382.00 Td (50 permit ip 10.10.30.0 0.0.0.255 any) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 349.50 Td (Then I applied ACLs inbound on the router subinterfaces:) Tj ET
+0.960 0.970 0.980 rg
+56.00 261.50 500.00 75.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 261.50 500.00 75.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 321.00 Td (interface FastEthernet0/0.30) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 309.50 Td (ip access-group BAGGAGE-IN in) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 298.00 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 286.50 Td (interface FastEthernet0/0.60) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 275.00 Td (ip access-group GUEST-WIFI-IN in) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 242.50 Td (Step 10: I hardened management access with SSH) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 223.50 Td (I used SSH because Telnet sends credentials in clear text. In a real airport or enterprise) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 209.00 Td (environment, management traffic should be encrypted and restricted.) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 4738 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 7) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 7) Tj ET
+0.960 0.970 0.980 rg
+56.00 556.00 500.00 156.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 556.00 500.00 156.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 696.00 Td (hostname R1-AIRPORT-EDGE) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 684.50 Td (ip domain-name airport.local) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 673.00 Td (username netadmin privilege 15 secret StrongPassword123!) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 661.50 Td (crypto key generate rsa modulus 2048) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 650.00 Td (ip ssh version 2) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 638.50 Td (service password-encryption) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 627.00 Td (enable secret EnableStrongSecret123!) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 615.50 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 604.00 Td (line vty 0 4) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 592.50 Td (login local) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 581.00 Td (transport input ssh) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 569.50 Td (exec-timeout 10 0) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 537.00 Td (Optional management restriction:) Tj ET
+0.960 0.970 0.980 rg
+56.00 437.50 500.00 87.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 437.50 500.00 87.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 508.50 Td (ip access-list standard MGMT-SSH-ONLY) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 497.00 Td (permit 10.10.50.0 0.0.0.255) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 485.50 Td (deny any) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 474.00 Td () Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 462.50 Td (line vty 0 4) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 451.00 Td (access-class MGMT-SSH-ONLY in) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 412.50 Td (5. Why I Used Each Networking Concept) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 404.50 m 556.00 404.50 l S
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 383.50 Td (VLANs) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 364.50 Td (I used VLANs to separate departments into different broadcast domains and security zones. This) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 350.00 Td (reduces broadcast traffic, improves security, and makes troubleshooting easier. If baggage) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 335.50 Td (devices have a problem, I can focus on VLAN 30 instead of checking the whole network.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 315.00 Td (802.1Q Trunking) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 296.00 Td (I used trunking because many VLANs needed to cross one link between the switch and router.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 281.50 Td (Without trunking, I would need separate physical router interfaces for every VLAN, which is not) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 267.00 Td (scalable.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 246.50 Td (Router-on-a-Stick) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 227.50 Td (I used router-on-a-stick because a Layer 2 switch cannot route between VLANs. The router) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 213.00 Td (subinterfaces provide gateways for each VLAN and allow controlled communication between) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 198.50 Td (departments.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 178.00 Td (DHCP) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 159.00 Td (I used DHCP because manually configuring every airport endpoint would be slow and error-prone.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 144.50 Td (DHCP automatically gives each endpoint the correct IP address, subnet mask, gateway, DNS server,) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 130.00 Td (and domain.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 109.50 Td (Internal DNS) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 90.50 Td (I used DNS because users and devices should use service names, not memorize IP addresses. If a) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 4754 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 8) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 8) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 704.00 Td (server IP changes, the DNS record can be updated centrally.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 683.50 Td (ACLs) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 664.50 Td (I used ACLs to enforce security policy. VLANs create separation, but ACLs decide what traffic is) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 650.00 Td (allowed or denied after routing is enabled. This is especially important for guest Wi-Fi and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 635.50 Td (baggage systems.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 615.00 Td (SSH Management) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 596.00 Td (I used SSH because network device management should be encrypted. I also separated IT management) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 581.50 Td (into its own VLAN to show the principle of secure administration.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 555.00 Td (6. Main Challenge I Faced: DHCP Failed Because of ACLs) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 547.00 m 556.00 547.00 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 526.00 Td (The biggest challenge in the lab was that some VPCS clients did not receive DHCP addresses.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 505.50 Td (At first, the network looked correct:) Tj ET
+0.120 0.500 0.660 rg
+56.00 487.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 485.00 Td (VLANs existed on the switch.) Tj ET
+0.120 0.500 0.660 rg
+56.00 471.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 469.00 Td (Access ports were assigned to the correct VLANs.) Tj ET
+0.120 0.500 0.660 rg
+56.00 455.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 453.00 Td (The trunk was carrying VLANs 10,20,30,40,50,60,70.) Tj ET
+0.120 0.500 0.660 rg
+56.00 439.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 437.00 Td (Router subinterfaces were up/up.) Tj ET
+0.120 0.500 0.660 rg
+56.00 423.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 421.00 Td (DHCP pools were configured.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 402.00 Td (But some clients still did not get IP addresses.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 381.50 Td (Troubleshooting process) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 362.50 Td (I followed a layered troubleshooting method:) Tj ET
+0.960 0.970 0.980 rg
+56.00 251.50 500.00 98.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 251.50 500.00 98.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 334.00 Td (show ip interface brief) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 322.50 Td (show vlan brief) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 311.00 Td (show interfaces trunk) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 299.50 Td (show ip dhcp pool) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 288.00 Td (show ip dhcp binding) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 276.50 Td (show access-lists) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 265.00 Td (show running-config | include access-group) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 232.50 Td (Root cause) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 213.50 Td (Inbound ACLs were applied to some router subinterfaces. The ACLs allowed traffic from normal) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 199.00 Td (subnet addresses like 10.10.30.0/24, but DHCP clients do not have an IP address yet when they) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 184.50 Td (send their first DHCP Discover message.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 164.00 Td (DHCP Discover uses:) Tj ET
+0.960 0.970 0.980 rg
+56.00 87.50 500.00 64.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 87.50 500.00 64.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 135.50 Td (Source IP: 0.0.0.0) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 124.00 Td (Destination IP: 255.255.255.255) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 112.50 Td (UDP source port: 68) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 101.00 Td (UDP destination port: 67) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 4330 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 9) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 9) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 704.00 Td (So the ACL did not match the pre-DHCP traffic and blocked the request.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 683.50 Td (Fix) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 664.50 Td (I added this permit line near the top of each affected inbound ACL:) Tj ET
+0.960 0.970 0.980 rg
+56.00 622.50 500.00 29.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 622.50 500.00 29.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 636.00 Td (permit udp any eq 68 any eq 67) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 603.50 Td (Example:) Tj ET
+0.960 0.970 0.980 rg
+56.00 550.00 500.00 41.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 550.00 500.00 41.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 575.00 Td (ip access-list extended CHECKIN-IN) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 563.50 Td (5 permit udp any eq 68 any eq 67) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 531.00 Td (After applying the fix, I cleared the VPCS IP and requested DHCP again:) Tj ET
+0.960 0.970 0.980 rg
+56.00 466.00 500.00 52.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 466.00 500.00 52.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 502.50 Td (clear ip) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 491.00 Td (ip dhcp) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 479.50 Td (show ip) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 447.00 Td (Then the clients received correct IP addresses, gateways, DNS server, and domain name.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 426.50 Td (What this challenge proves) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 407.50 Td (This challenge proves that I do not just copy commands. I understand packet flow and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 393.00 Td (troubleshooting. I checked Layer 1/2 first, then VLANs, trunking, Layer 3 gateways, DHCP, and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 378.50 Td (finally ACL behavior. That is the same method a NOC or network support team would use during a) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 364.00 Td (real incident.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 337.50 Td (7. Baggage Scanner and Printer Troubleshooting Story) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 329.50 m 556.00 329.50 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 308.50 Td (I also included baggage devices because airport operations depend on scanners and printers. If a) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 294.00 Td (scanner cannot reach the baggage application server, or a printer cannot print tags, flights and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 279.50 Td (passengers can be delayed.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 259.00 Td (For a baggage scanner issue, I would troubleshoot like this:) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 238.50 Td (1. Check the endpoint IP information.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 221.00 Td (2. Ping the default gateway 10.10.30.1.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 203.50 Td (3. Ping the DNS server 10.10.70.10.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 186.00 Td (4. Test reachability to the baggage app server 10.10.70.30.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 168.50 Td (5. Verify the switch port is in VLAN 30.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 151.00 Td (6. Check trunk forwarding.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 133.50 Td (7. Check BAGGAGE-IN ACL counters.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 116.00 Td (8. Confirm the printer IP, subnet mask, gateway, and VLAN.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 95.50 Td (Commands:) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 23 0 R >>
+endobj
+25 0 obj
+<< /Length 4025 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 10) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 10) Tj ET
+0.960 0.970 0.980 rg
+56.00 648.00 500.00 64.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 648.00 500.00 64.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 696.00 Td (show interfaces status) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 684.50 Td (show running-config interface e0/3) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 673.00 Td (show vlan brief) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 661.50 Td (show access-lists BAGGAGE-IN) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 629.00 Td (This part of the project shows practical support thinking. I connected technical commands to a) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 614.50 Td (real business problem.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 588.00 Td (8. End-to-End Verification Plan) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 580.00 m 556.00 580.00 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 559.00 Td (After building the network, I verified each layer.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 538.50 Td (Layer 1 and Layer 2) Tj ET
+0.960 0.970 0.980 rg
+56.00 475.00 500.00 52.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 475.00 500.00 52.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 511.50 Td (show interfaces status) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 500.00 Td (show vlan brief) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 488.50 Td (show interfaces trunk) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 456.00 Td (I confirmed that access ports were connected, VLANs were created, and the trunk carried all) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 441.50 Td (required VLANs.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 421.00 Td (Layer 3 routing) Tj ET
+0.960 0.970 0.980 rg
+56.00 369.00 500.00 41.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 369.00 500.00 41.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 394.00 Td (show ip interface brief) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 382.50 Td (show ip route) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 350.00 Td (I confirmed that router subinterfaces were up/up and that each VLAN subnet appeared as a) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 335.50 Td (connected route.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 315.00 Td (DHCP) Tj ET
+0.960 0.970 0.980 rg
+56.00 263.00 500.00 41.00 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 263.00 500.00 41.00 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 288.00 Td (show ip dhcp pool) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 276.50 Td (show ip dhcp binding) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 244.00 Td (On each VPCS endpoint:) Tj ET
+0.960 0.970 0.980 rg
+56.00 156.00 500.00 75.50 re f
+0.780 0.860 0.900 RG
+0.50 w 56.00 156.00 500.00 75.50 re S
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 215.50 Td (clear ip) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 204.00 Td (ip dhcp) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 192.50 Td (show ip) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 181.00 Td (ping 10.10.x.1) Tj ET
+0.080 0.180 0.240 rg
+BT /Courier 8.8 Tf 70.00 169.50 Td (ping 10.10.70.10) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 137.00 Td (Security testing) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 118.00 Td (I tested the security policy:) Tj ET
+0.120 0.500 0.660 rg
+56.00 99.50 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 97.50 Td (Guest Wi-Fi to internal server should be blocked.) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 25 0 R >>
+endobj
+27 0 obj
+<< /Length 5688 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 11) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 11) Tj ET
+0.120 0.500 0.660 rg
+56.00 706.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 704.00 Td (Baggage to DNS should be allowed.) Tj ET
+0.120 0.500 0.660 rg
+56.00 690.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 688.00 Td (Baggage to baggage app should be allowed.) Tj ET
+0.120 0.500 0.660 rg
+56.00 674.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 672.00 Td (Check-in to DNS should be allowed.) Tj ET
+0.120 0.500 0.660 rg
+56.00 658.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 656.00 Td (IT management to router SSH should be allowed.) Tj ET
+0.120 0.500 0.660 rg
+56.00 642.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 640.00 Td (Non-IT VLAN to router SSH should be denied if the management ACL is configured.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 615.00 Td (9. Full HR-Friendly Interview Answer) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 607.00 m 556.00 607.00 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 586.00 Td (If HR asked me to explain the project step by step, I would say:) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 565.50 Td (> This project was an EVE-NG airport network simulation. I wanted to show that I understand how) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 551.00 Td (enterprise networks are designed, not just how to ping between devices. I created a realistic) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 536.50 Td (airport environment with separate departments: check-in, gate, baggage, airport operations, IT) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 522.00 Td (management, guest Wi-Fi, and servers.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 504.50 Td (>) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 487.00 Td (> I started by creating a VLAN and IP plan. Each department received its own VLAN and subnet. I) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 472.50 Td (did this because different departments have different security and operational needs. For) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 458.00 Td (example, guest Wi-Fi should not be in the same network as baggage systems or internal servers.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 440.50 Td (>) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 423.00 Td (> On the switch, I created the VLANs and assigned endpoint ports as access ports. Then I) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 408.50 Td (configured the switch-to-router link as an 802.1Q trunk. I used trunking because one physical) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 394.00 Td (link needed to carry multiple VLANs to the router.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 376.50 Td (>) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 359.00 Td (> On the router, I used router-on-a-stick. That means one physical router interface is divided) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 344.50 Td (into subinterfaces, and each subinterface is tagged for a specific VLAN. Each subinterface acts) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 330.00 Td (as the default gateway for that VLAN.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 312.50 Td (>) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 295.00 Td (> I configured DHCP pools for each department so endpoints automatically received the correct IP) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 280.50 Td (address, gateway, DNS server, and domain name. I placed the DNS server in the servers VLAN and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 266.00 Td (gave its address to clients through DHCP.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 248.50 Td (>) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 231.00 Td (> For security, I used ACLs. Guest Wi-Fi was blocked from internal airport networks, and baggage) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 216.50 Td (traffic was limited to required services like DNS and the baggage application server. I also) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 202.00 Td (configured SSH management so devices could be managed securely instead of using Telnet.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 184.50 Td (>) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 167.00 Td (> The main challenge I faced was DHCP failing on some VLANs. I troubleshot it step by step. I) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 152.50 Td (checked router interfaces, switch VLANs, trunking, DHCP pools, DHCP bindings, and ACLs. I found) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 138.00 Td (that inbound ACLs were blocking DHCP Discover traffic because DHCP clients use 0.0.0.0 before) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 123.50 Td (they receive an IP address. I fixed it by permitting UDP source port 68 to destination port 67) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 109.00 Td (near the top of the ACLs. After that, the clients received IP addresses successfully.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 91.50 Td (>) Tj ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 27 0 R >>
+endobj
+29 0 obj
+<< /Length 5590 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 12) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 12) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 704.00 Td (> What I learned from this project is how to think like a network support technician: understand) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 689.50 Td (the business need, design segmentation, apply security controls, verify each layer, and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 675.00 Td (troubleshoot with evidence instead of guessing.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 648.50 Td (10. Short 60-Second Interview Pitch) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 640.50 m 556.00 640.50 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 619.50 Td (> I built an EVE-NG airport VLAN network to simulate a real enterprise environment. I separated) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 605.00 Td (airport departments into VLANs for check-in, gate, baggage, operations, IT management, guest Wi-) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 590.50 Td (Fi, and servers. I configured switch access ports, 802.1Q trunking, router-on-a-stick gateways,) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 576.00 Td (DHCP scopes, DNS, ACL security policies, and SSH management. The biggest issue I solved was DHCP) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 561.50 Td (failure caused by inbound ACLs blocking DHCP Discover traffic. I identified the problem by) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 547.00 Td (checking VLANs, trunks, router subinterfaces, DHCP pools, bindings, and ACLs. Then I fixed it by) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 532.50 Td (permitting UDP 68 to UDP 67 before restrictive ACL rules. This project demonstrates VLAN design,) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 518.00 Td (routing, DHCP, security, and troubleshooting skills for NOC, IT support, and junior network) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 503.50 Td (roles.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 477.00 Td (11. Technical Interview Questions and Strong Answers) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 469.00 m 556.00 469.00 l S
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 448.00 Td (Question: Why did you use VLANs?) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 429.00 Td (I used VLANs to separate different airport departments into different broadcast domains and) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 414.50 Td (security zones. This improves security, reduces unnecessary broadcast traffic, and makes) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 400.00 Td (troubleshooting easier.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 379.50 Td (Question: What is 802.1Q trunking?) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 360.50 Td (802.1Q trunking allows multiple VLANs to travel over one physical link by adding VLAN tags to) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 346.00 Td (Ethernet frames. In my lab, the trunk between the switch and router carries VLANs 10 through 70.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 325.50 Td (Question: What is router-on-a-stick?) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 306.50 Td (Router-on-a-stick is a design where one router interface uses multiple subinterfaces. Each) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 292.00 Td (subinterface has an 802.1Q VLAN tag and an IP address that acts as the default gateway for that) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 277.50 Td (VLAN.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 257.00 Td (Question: Why did DHCP fail?) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 238.00 Td (DHCP failed because inbound ACLs were blocking DHCP Discover traffic. Before a client receives an) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 223.50 Td (IP address, it sends traffic from 0.0.0.0 using UDP source port 68 to destination port 67. The) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 209.00 Td (fix was to permit DHCP traffic before the restrictive ACL rules.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 188.50 Td (Question: How did you secure guest Wi-Fi?) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 169.50 Td (I placed guest Wi-Fi in its own VLAN and applied an ACL that denies access to internal) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 155.00 Td (10.10.0.0/16 networks while allowing permitted outbound traffic. That keeps guest users away from) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 140.50 Td (airport systems.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 12.5 Tf 56.00 120.00 Td (Question: How would you troubleshoot a baggage printer that cannot print?) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 101.00 Td (I would check the endpoint IP, gateway, DNS, switch port VLAN, trunk, and ACL counters. I would) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 86.50 Td (ping the gateway first, then DNS, then the baggage application server or printer. If ACL counters) Tj ET
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 29 0 R >>
+endobj
+31 0 obj
+<< /Length 3990 >>
+stream
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 56.00 760.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 9 Tf 540.00 760.00 Td (Page 13) Tj ET
+0.780 0.860 0.900 RG
+0.60 w 56.00 54.00 m 556.00 54.00 l S
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 56.00 40.00 Td (Daily IT Training  -  EVE-NG Airport VLAN Network Pr) Tj ET
+0.350 0.350 0.350 rg
+BT /Helvetica 8 Tf 542.00 40.00 Td (Page 13) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 704.00 Td (increase, I would review whether the required traffic is permitted.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 677.50 Td (12. Resume and LinkedIn Bullet Points) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 669.50 m 556.00 669.50 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 648.50 Td (Use honest lab/project wording:) Tj ET
+0.120 0.500 0.660 rg
+56.00 630.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 628.00 Td (Built an EVE-NG airport VLAN network lab using VLAN segmentation, 802.1Q trunking, router-) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 614.00 Td (on-a-stick inter-VLAN routing, DHCP scopes, internal DNS, ACL security policies, and SSH) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 600.00 Td (management hardening.) Tj ET
+0.120 0.500 0.660 rg
+56.00 586.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 584.00 Td (Configured department-based VLANs for check-in, gate operations, baggage, airport) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 570.00 Td (operations, IT management, guest Wi-Fi, and servers using a structured IP addressing plan.) Tj ET
+0.120 0.500 0.660 rg
+56.00 556.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 554.00 Td (Troubleshot DHCP failures by verifying switch access ports, trunk forwarding, router) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 540.00 Td (subinterfaces, DHCP pools, DHCP bindings, and inbound ACL behavior.) Tj ET
+0.120 0.500 0.660 rg
+56.00 526.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 524.00 Td (Resolved DHCP failure caused by ACLs blocking DHCP Discover traffic by permitting UDP client) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 510.00 Td (port 68 to server port 67 before restrictive ACL rules.) Tj ET
+0.120 0.500 0.660 rg
+56.00 496.00 6.00 6.00 re f
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 494.00 Td (Documented baggage scanner/printer troubleshooting workflow using gateway tests, DNS) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.2 Tf 74.00 480.00 Td (reachability, ACL counters, and switch port verification.) Tj ET
+0.080 0.200 0.340 rg
+BT /Helvetica-Bold 17 Tf 56.00 455.00 Td (13. Job-Ready Closing Statement) Tj ET
+0.120 0.500 0.660 RG
+1.10 w 56.00 447.00 m 556.00 447.00 l S
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 426.00 Td (This project is valuable because it combines technical configuration with business reasoning. I) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 411.50 Td (did not only create VLANs; I explained why each VLAN exists, how traffic moves through the switch) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 397.00 Td (and router, how IP addressing is automated, how DNS supports operations, how ACLs protect) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 382.50 Td (sensitive systems, and how to troubleshoot when something breaks.) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 362.00 Td (For an IT company, this project shows readiness for NOC Analyst, IT Support Technician, Network) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 347.50 Td (Support Technician, Junior Network Administrator, and Cloud/Network Support roles because it) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 333.00 Td (demonstrates hands-on configuration, structured troubleshooting, documentation, and security-) Tj ET
+0.120 0.120 0.120 rg
+BT /Helvetica 10.3 Tf 56.00 318.50 Td (minded thinking.) Tj ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /Helvetica 3 0 R /Helvetica-Bold 4 0 R /Helvetica-Oblique 5 0 R /Courier 6 0 R >> >> /Contents 31 0 R >>
+endobj
+xref
+0 33
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000200 00000 n 
+0000000297 00000 n 
+0000000399 00000 n 
+0000000504 00000 n 
+0000000599 00000 n 
+0000004658 00000 n 
+0000004853 00000 n 
+0000010064 00000 n 
+0000010260 00000 n 
+0000014863 00000 n 
+0000015060 00000 n 
+0000019651 00000 n 
+0000019848 00000 n 
+0000024355 00000 n 
+0000024552 00000 n 
+0000028688 00000 n 
+0000028885 00000 n 
+0000033676 00000 n 
+0000033873 00000 n 
+0000038680 00000 n 
+0000038877 00000 n 
+0000043260 00000 n 
+0000043457 00000 n 
+0000047535 00000 n 
+0000047732 00000 n 
+0000053473 00000 n 
+0000053670 00000 n 
+0000059313 00000 n 
+0000059510 00000 n 
+0000063553 00000 n 
+trailer
+<< /Size 33 /Root 1 0 R >>
+startxref
+63750
+%%EOF
