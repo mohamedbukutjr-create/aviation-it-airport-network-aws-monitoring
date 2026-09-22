@@ -36,12 +36,12 @@ Create a small airport/airline network with separate VLANs for check-in, gate, b
 |---|---|---|
 | R1-AIRPORT-EDGE | Cisco IOSv / CSR1000v | Router-on-a-stick, ACLs, DHCP, NAT-ready edge |
 | SW1-CORE | Cisco IOSvL2 / IOL L2 | VLANs, trunk, access ports |
-| SRV-DNS-DHCP | Ubuntu Server / VPCS substitute | DNS/internal service testing |
+| SRV-DNS-APP | Ubuntu Server / VPCS substitute | DNS/internal application service testing |
 | CHECKIN-PC1 | VPCS | Check-in counter test client |
 | GATE-PC1 | VPCS | Gate/boarding test client |
 | BAG-SCANNER1 | VPCS | Baggage scanner simulation |
 | BAG-PRINTER1 | VPCS | Bag tag printer simulation |
-| OPS-PC1 | VPCS | SOCC/Airport Ops user |
+| OPS-PC1 | VPCS | Airport operations/control-centre user |
 | IT-ADMIN-PC | VPCS | Admin workstation |
 | GUEST-LAPTOP | VPCS | Guest Wi-Fi user simulation |
 
@@ -50,7 +50,7 @@ Create a small airport/airline network with separate VLANs for check-in, gate, b
 | From | Interface | To | Interface | Purpose |
 |---|---|---|---|---|
 | R1 | G0/0 | SW1 | G0/0 | 802.1Q trunk carrying VLAN 10-70 |
-| SW1 | G0/1 | SRV-DNS-DHCP | eth0 | Server VLAN 70 |
+| SW1 | G0/1 | SRV-DNS-APP | eth0 | Server VLAN 70 |
 | SW1 | G0/2 | CHECKIN-PC1 | eth0 | Check-in VLAN 10 |
 | SW1 | G0/3 | GATE-PC1 | eth0 | Gate VLAN 20 |
 | SW1 | G1/0 | BAG-SCANNER1 | eth0 | Baggage VLAN 30 |

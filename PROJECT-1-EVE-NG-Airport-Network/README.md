@@ -81,7 +81,7 @@ PROJECT-1-EVE-NG-Airport-Network/
 | 10 | CHECKIN | 10.10.10.0/24 | 10.10.10.1 | Check-in PCs |
 | 20 | GATE | 10.10.20.0/24 | 10.10.20.1 | Gate/boarding PCs |
 | 30 | BAGGAGE | 10.10.30.0/24 | 10.10.30.1 | Baggage scanners/printers |
-| 40 | AIRPORT_OPS | 10.10.40.0/24 | 10.10.40.1 | Operations/SOCC users |
+| 40 | AIRPORT_OPS | 10.10.40.0/24 | 10.10.40.1 | Operations/control-centre users |
 | 50 | IT_MGMT | 10.10.50.0/24 | 10.10.50.1 | Admin workstation, switch SVI |
 | 60 | GUEST_WIFI | 10.10.60.0/24 | 10.10.60.1 | Guest Wi-Fi users |
 | 70 | SERVERS | 10.10.70.0/24 | 10.10.70.1 | DNS, app, monitoring servers |

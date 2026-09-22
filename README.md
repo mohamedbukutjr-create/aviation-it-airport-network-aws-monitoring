@@ -9,10 +9,10 @@ A realistic airport/airline branch network lab with VLAN segmentation for:
 - Check-in counters
 - Gate/boarding devices
 - Baggage scanners and bag-tag printers
-- Airport operations/SOCC users
+- Airport operations/control-centre users
 - IT management
 - Guest Wi-Fi
-- Server/DNS/DHCP services
+- Server/DNS/application services
 
 The project includes Cisco IOS-style configs, ACLs, DHCP, DNS design, routing, Wi-Fi troubleshooting, mock airline IT incident tickets, and a baggage scanner/printer runbook.
 
