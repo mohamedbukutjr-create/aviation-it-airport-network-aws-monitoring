@@ -1,9 +1,11 @@
-# Aviation IT Portfolio: Airport Network + AWS Cloud Monitoring
+# Aviation IT Portfolio: Airport VLAN Network Design
 
-This portfolio contains two separate but connected projects designed for IT Support, NOC, Network Support, Cloud Support, and Aviation IT roles in Toronto/GTA.
+This repository contains one focused aviation IT networking project designed for IT Support, NOC, Network Support, Airport IT Support, and Operational IT Analyst roles in Toronto/GTA.
 
-## Project 1 — EVE-NG Airport VLAN Network Design
+## Project — EVE-NG Airport VLAN Network Design
+
 A realistic airport/airline branch network lab with VLAN segmentation for:
+
 - Check-in counters
 - Gate/boarding devices
 - Baggage scanners and bag-tag printers
@@ -12,49 +14,61 @@ A realistic airport/airline branch network lab with VLAN segmentation for:
 - Guest Wi-Fi
 - Server/DNS/DHCP services
 
-Includes Cisco IOS-style configs, ACLs, DHCP, DNS design, routing, Wi-Fi troubleshooting, mock airline IT incident tickets, and a baggage scanner/printer runbook.
-
-## Project 2 — AWS Airline Cloud Monitoring Dashboard
-A cloud monitoring project for a mock airline operations app. Includes:
-- VPC, public/private subnets
-- EC2 app server design
-- CloudWatch dashboard and alarms
-- SNS incident notification
-- IAM least privilege concepts
-- Runbooks and incident tickets
-- Resume-ready documentation
+The project includes Cisco IOS-style configs, ACLs, DHCP, DNS design, routing, Wi-Fi troubleshooting, mock airline IT incident tickets, and a baggage scanner/printer runbook.
 
 ## Portfolio Goal
-Show employers that you can document, build, troubleshoot, and explain an aviation IT environment across networking and cloud.
+
+Show employers that you can document, build, troubleshoot, and explain a realistic aviation IT network environment.
 
 ## Repository Structure
 
-Each project is stored in its own separate folder so recruiters can review them independently:
+The project is stored in its own separate folder so recruiters can review it independently:
 
 ```text
 PROJECT-1-EVE-NG-Airport-Network/
 ├── README.md
 ├── configs/
+│   ├── R1-AIRPORT-EDGE.cfg
+│   └── SW1-CORE.cfg
 ├── docs/
+│   ├── ip-addressing-plan.md
+│   ├── lab-topology-design.md
+│   ├── topology.md
+│   ├── verification-checklist.md
+│   └── pdfs/
+│       └── Airport-VLAN-Project-Interview-Explanation.pdf
 ├── incidents/
+│   └── mock-incident-tickets.md
 └── runbooks/
-
-PROJECT-2-AWS-Airline-Cloud-Monitoring/
-├── README.md
-├── docs/
-├── incidents/
-├── runbooks/
-└── terraform/
+    └── baggage-scanner-printer-troubleshooting.md
 ```
 
-## Included PDFs
+## Included PDF
 
-- [Project 1 PDF — Airport VLAN Project Interview Explanation](PROJECT-1-EVE-NG-Airport-Network/docs/pdfs/Airport-VLAN-Project-Interview-Explanation.pdf)
-- [Project 2 PDF — AWS Cloud Monitoring Guide](PROJECT-2-AWS-Airline-Cloud-Monitoring/docs/pdfs/AWS-Cloud-Monitoring-Guide.pdf)
+- [Airport VLAN Project Interview Explanation](PROJECT-1-EVE-NG-Airport-Network/docs/pdfs/Airport-VLAN-Project-Interview-Explanation.pdf)
 
-## Suggested GitHub Repository Name
-`aviation-it-airport-network-aws-monitoring`
+## Skills Demonstrated
+
+- VLAN segmentation
+- 802.1Q trunking
+- Router-on-a-stick inter-VLAN routing
+- DHCP per VLAN
+- ACL-based isolation
+- Cisco IOS configuration
+- DNS and basic server design
+- IT incident documentation
+- Airport IT troubleshooting mindset
+
+## Resume Project Entry
+
+**Aviation IT Airport VLAN Network Lab | EVE-NG, Cisco IOS, VLANs, ACLs, DHCP**
+
+- Designed and documented a segmented airport IT network with VLANs for check-in, gate systems, baggage scanners/printers, airport operations, IT management, guest Wi-Fi, and servers.
+- Configured Cisco router-on-a-stick, DHCP scopes, ACL isolation, DNS design, SSH management, and verification commands for a realistic aviation IT support scenario.
+- Created incident tickets and troubleshooting runbooks for baggage scanner, printer, DHCP, DNS, and ACL-related issues.
 
 ## Author
+
 Bukut Jr — Toronto, Canada
-Target roles: IT Support, NOC Analyst, Network Support, Cloud Support, Airport IT Support, Operational IT Analyst.
+
+Target roles: IT Support Technician, NOC Analyst, Network Support Technician, Airport IT Support, Operational IT Analyst.
